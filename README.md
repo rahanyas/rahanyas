@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack project<br>🌱 I’m currently learning next.js socket.io<br>💬 Ask me about Node.js,Express.js,Mongodb,React
+🔭 I’m currently working on Full Stack project<br>🌱 I’m currently learning next.js,websocket<br>💬 Ask me about Node.js,Express.js,Mongodb,React
 
 
 ## 🌐 Socials:
