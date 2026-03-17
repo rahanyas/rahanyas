@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is rahanyas
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is RAHANYAS
 =================================================================================================================================
 
 web developer
 -------------
 
-'m a self-taught full stack developer from Kerala, India. What got me into coding is simple — I love that I can see what I create. Building something from nothing and watching it come alive on screen? That feeling never gets old.
+'Im a self-taught full stack developer from Kerala, India. What got me into coding is simple — I love that I can see what I create. Building something from nothing and watching it come alive on screen? That feeling never gets old.
 
 I've been building real-world projects to sharpen my skills — a real-time chat application, a full e-commerce platform, and several other frontend and full stack apps. Every project taught me something that tutorials never could.
 
