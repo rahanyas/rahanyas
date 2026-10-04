@@ -1,41 +1,224 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is RAHANYAS
-=================================================================================================================================
 
-web developer
--------------
+give me the file
 
-'Im a self-taught full stack developer from Kerala, India. What got me into coding is simple — I love that I can see what I create. Building something from nothing and watching it come alive on screen? That feeling never gets old.
+Done — I created the animated GitHub profile README file.
 
-I've been building real-world projects to sharpen my skills — a real-time chat application, a full e-commerce platform, and several other frontend and full stack apps. Every project taught me something that tutorials never could.
+It includes:
 
-* ✉️  You can contact me at [rahanyas3@gmail.com](mailto:rahanyas3@gmail.com)
-* 🚀  I'm currently working on [chatApplication](http://hey-lyart.vercel.app)
-* 🧠  I'm currently learning sql and next.,js
-* 👥  I'm looking to collaborate on projects feel free to connect
+⚡ Animated typing header
+🌊 Animated footer
+🐍 Contribution snake animation
+📊 GitHub stats + streak
+🛠️ Modern tech-stack icons
+🚀 Repeato + e-commerce projects
+🔐 Cybersecurity section
+🌐 Portfolio/GitHub links
+Dark/neon developer aesthetic
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" alt="Babel" title="Babel" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+README.md
+Document
+that hand theme is old . and this also old
 
-### Socials
+This version is substantially different — no waving-hand hero, no generic typing banner, no badge wall, no streak card, and no motivational quote section.
 
-<p align="left"> <a href="https://www.github.com/rahanyas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rahanyas-razak-89951229b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/rahanyas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/rahanyas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rahanyas?logo=github&style=for-the-badge&color=14b8a6&labelColor=27272a" /></a>
-### Badges
+It uses a custom animated terminal / command-center visual, animated SVG scan/glow effects, compact engineering-style sections, and your actual projects. This direction aligns better with newer profile design patterns emphasizing custom SVG motion and intentional layouts over widget-heavy templates. 
 
-<b>My GitHub Stats</b>
+Files
+Download the complete GitHub profile package
 
-<a href="http://www.github.com/rahanyas"><img src="https://github-readme-stats.vercel.app/api?username=rahanyas&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=14b8a6&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="rahanyas's GitHub stats" /></a>
+Inside:
 
-<a href="http://www.github.com/rahanyas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahanyas&stroke=14b8a6&background=27272a&ring=444e59&fire=444e59&currStreakNum=14b8a6&currStreakLabel=444e59&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+rahanyas-github-profile/
+├── README.md
+└── assets/
+    ├── header.svg
+    └── status.svg
+Important: upload the whole structure to your rahanyas/rahanyas profile repository, not just README.md, because the custom animations are local SVG assets. 
 
-<a href="https://github.com/rahanyas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahanyas&langs_count=10&title_color=444e59&text_color=14b8a6&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+just give it as a single file not like folder with zzip
 
-### Support Me
+Yes — single README.md file only.
 
-<ul style="list-style-type: none; margin: 0;">
+Just put this file directly into your GitHub profile repository:
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/rahanyas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+rahanyas/
+└── README.md
+No ZIP, no extra folder, no separate assets. 
 
-</ul>
+
+README.md
+Document
+how to add this in github profile
+To add it to your GitHub profile, you need a special repository named exactly the same as your GitHub username.
+
+Since your username is rahanyas, the repository should be:
+
+rahanyas/rahanyas
+
+Steps
+Go to GitHub and sign in.
+
+Click + in the top-right → New repository.
+
+Set:
+
+Owner: rahanyas
+Repository name: rahanyas
+Public: ✅
+Add a README file: ❌
+(because you already have the README I created)
+Click Create repository.
+
+Open the new rahanyas repository.
+
+Click Add file → Upload files.
+
+Upload the downloaded README.md.
+
+Click Commit changes.
+
+Go back to your GitHub profile:
+github.com/rahanyas
+
+Your README should appear at the top of your profile.
+
+One important thing
+The README I made uses external animated services, so you don't need to upload any extra files. GitHub will load those animations/images from their URLs.
+
+If you already have a rahanyas repository, don't create another one—just replace its README.md with the new file.
+
+i have that alredy
+Perfect. Then you only need to replace your existing profile README.md.
+
+Do this
+Open your profile repository:
+github.com/rahanyas/rahanyas
+
+Open README.md.
+
+Click the ✏️ Edit button.
+
+Press Ctrl+A inside the editor and delete the old README content.
+
+Open the new file I gave you:
+
+Open it with Notepad/VS Code → Ctrl+A → Ctrl+C.
+
+Paste it into GitHub's README editor.
+
+Scroll down → Commit changes.
+
+Go to:
+github.com/rahanyas
+
+Your profile should now show the new design.
+
+⚠️ One thing
+The new README uses animated external components, so give GitHub a few seconds and refresh with Ctrl + F5 if the animations don't appear immediately.
+
+If you want, I can also make the README much more cutting-edge—something closer to a Vercel/Linear-style developer portfolio, rather than the typical GitHub README aesthetic.
+
+
+README.md
+Document
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=RAHANYAS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%2F%2F%20SYSTEMS%20%2F%2F%20SECURITY&descAlignY=62&descSize=16&animation=twinkling&color=0:080A0F,50:111827,100:312E81" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=building+full-stack+systems;learning+linux+%26+networking;exploring+web+security;turning+ideas+into+working+software" alt="Animated introduction"/> </div>
+<table> <tr> <td width="52%" valign="top">
+01 / PROFILE
+I'm a full-stack developer interested in the space where software, systems and security meet.
+
+I like building things from the frontend to the backend, deploying them, breaking them in controlled environments, and understanding what happens underneath.
+
+</td> <td width="48%" valign="top">
+02 / CURRENT STATE
+STATUS    ● ONLINE
+
+BUILD     web applications
+LEARN     cybersecurity
+EXPLORE    Linux / networking
+AUTOMATE  Python
+FOCUS     backend engineering
+</td> </tr> </table>
+03 / STACK
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,mongodb,postgres,python,linux,aws,vercel,git,github&perline=8" /> </div>
+FRONTEND    React · TypeScript · JavaScript · Tailwind
+BACKEND     Node.js · Express · REST APIs
+DATABASE    MongoDB · PostgreSQL
+CLOUD       AWS · Vercel · Render
+SYSTEMS     Linux · Windows · VirtualBox
+SECURITY    Nmap · Metasploit · SearchSploit
+04 / SELECTED WORK
+<table> <tr> <td width="50%" valign="top">
+📄 REPEATO
+Question-paper intelligence platform
+
+Turning uploaded question papers into structured information and useful predictions.
+
+React TypeScript Node Express MongoDB
+
+Working on
+
+PDF upload pipeline
+question extraction
+sub-question detection
+marks & section parsing
+year / subject metadata
+prediction workflow
+→ View repository
+
+</td> <td width="50%" valign="top">
+🛒 COZA STORE
+Full-stack commerce platform
+
+A clothing store with customer workflows and an administrative management system.
+
+React Node Express MongoDB
+
+Includes
+
+authentication
+product browsing
+cart & orders
+user management
+admin CRUD
+Cloudinary image storage
+</td> </tr> </table>
+05 / LEARNING PATH
+                         ┌──────────────────┐
+                         │  WEB ENGINEERING │
+                         └────────┬─────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    ▼                           ▼
+             ┌────────────┐              ┌────────────┐
+             │   LINUX    │              │  NETWORKS  │
+             └─────┬──────┘              └─────┬──────┘
+                   │                           │
+                   └─────────────┬─────────────┘
+                                 ▼
+                         ┌────────────────┐
+                         │    SECURITY    │
+                         └───────┬────────┘
+                                 ▼
+                         ┌────────────────┐
+                         │ PYTHON / AUTO  │
+                         └────────────────┘
+Currently exploring
+Linux internals · Networking · Web security · Python automation · Cloud · Backend architecture
+
+I prefer understanding why something works instead of simply memorizing the command.
+
+06 / ACTIVITY
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahanyas&bg_color=080A0F&color=94A3B8&line=22D3EE&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/> </div>
+07 / CONNECT
+<div align="center"> <a href="https://rahanyas.vercel.app"> <img src="https://img.shields.io/badge/PORTFOLIO-080A0F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=080A0F" /> </a> &nbsp; <a href="https://github.com/rahanyas"> <img src="https://img.shields.io/badge/GITHUB-080A0F?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=080A0F" /> </a>
+
+
+
+BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:312E81,50:111827,100:080A0F" width="100%"/> </div>
+Udemy Login
+✕
+
+
